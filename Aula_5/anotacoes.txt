@@ -1,0 +1,3 @@
+
+
+Tabela pivô - Procurar sobre, para cadastrar varias "habilidades" e não sabe quantas o usuário vai enviar.
